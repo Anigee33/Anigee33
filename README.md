@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Technical documentation & Python development**
 
-- 👯 I’m looking to collaborate on **any Technical writing projects**
+- 👯 I’m looking to collaborate on **any Technical writing and Data Anlytics projects**
 
 - 🤝 I’m looking for help with **learning Python**
 
