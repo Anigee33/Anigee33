@@ -17,7 +17,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-### Hi there 👋
 
 <!--
 **Anigee33/Anigee33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
